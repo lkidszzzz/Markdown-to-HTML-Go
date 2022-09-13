@@ -7,7 +7,8 @@
 
 ![lkidszzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkidszzzz&show_icons=true&theme=dracula)]
 ## Quick Start
-```
+
 1.从[Releases](https://github.com/lkidszzzz/Markdown-to-HTML-demo/releases/)中下载最新版本的压缩包（7z或zip仅取决于个人喜欢）
+
 2.
-```
+
