@@ -7,7 +7,7 @@
 
 ![lkidszzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkidszzzz&show_icons=true&theme=dracula)]
 ## Description
-基于Go语言，使用Lute（一款结构化的 Markdown 引擎）
+基于Go语言，使用Lute（一款结构化的 Markdown 引擎）；
 
 将您的Markdown转换成HTML，并使用CSS将其美化为Github风格（带有代码块行号）。
 ## Quick Start
