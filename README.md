@@ -7,9 +7,9 @@
 
 ![lkidszzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkidszzzz&show_icons=true&theme=dracula)]
 ## Description
-&ensp;&ensp;&ensp;&ensp;基于Go语言，使用Lute（一款结构化的 Markdown 引擎）；
+&ensp;&ensp;&ensp;基于Go语言，使用Lute（一款结构化的 Markdown 引擎）；
 
-&ensp;&ensp;&ensp;&ensp;将您的Markdown转换成HTML，并使用CSS将其美化为Github风格（带有代码块行号）。
+&ensp;&ensp;&ensp;将您的Markdown转换成HTML，并使用CSS将其美化为Github风格（带有代码块行号）。
 ## Quick Start
 1. 从[Releases](https://github.com/lkidszzzz/Markdown-to-HTML-demo/releases/)中下载最新版本的压缩包（7z或zip仅取决于个人喜欢）；
 
@@ -17,6 +17,6 @@
 
 3. 打开exe，根据提示输入文件名（例：demo.md）即可。
 ## Known issues
-&ensp;&ensp;&ensp;&ensp;无法正确读取文件名含有空格的文件。
+&ensp;&ensp;&ensp;无法正确读取文件名含有空格的文件。
 ## Future plan
-&ensp;&ensp;&ensp;&ensp;可配置化、一次性处理当前目录下所有Markdown文件。
+&ensp;&ensp;&ensp;可配置化、一次性处理当前目录下所有Markdown文件。
