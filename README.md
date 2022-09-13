@@ -18,3 +18,5 @@
 3.打开exe，根据提示输入文件名（例：demo.md）即可。
 ## Known issues
 无法正确读取文件名含有空格的文件。
+## Future plan
+可配置化、一次性处理当前目录下所有Markdown文件。
