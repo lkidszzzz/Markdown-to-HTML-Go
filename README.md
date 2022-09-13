@@ -5,7 +5,7 @@
 ![stars](https://img.shields.io/github/stars/lkidszzzz/Markdown-to-HTML-demo?style=social)&ensp;
 ![MIT](https://img.shields.io/github/license/lkidszzzz/Markdown-to-HTML-demo)
 
-![lkidszzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkidszzzz&show_icons=true&theme=dracula)]
+![lkidszzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkidszzzz&show_icons=true&theme=dracula)
 ## Description
 &ensp;&ensp;&ensp;基于Go语言，使用Lute（一款结构化的 Markdown 引擎）；
 
