@@ -11,11 +11,11 @@
 
 将您的Markdown转换成HTML，并使用CSS将其美化为Github风格（带有代码块行号）。
 ## Quick Start
-1.从[Releases](https://github.com/lkidszzzz/Markdown-to-HTML-demo/releases/)中下载最新版本的压缩包（7z或zip仅取决于个人喜欢）；
+1. 从[Releases](https://github.com/lkidszzzz/Markdown-to-HTML-demo/releases/)中下载最新版本的压缩包（7z或zip仅取决于个人喜欢）；
 
-2.解压到任意目录，并将所需要转换的Markdown文件放在该目录下；
+2. 解压到任意目录，并将所需要转换的Markdown文件放在该目录下；
 
-3.打开exe，根据提示输入文件名（例：demo.md）即可。
+3. 打开exe，根据提示输入文件名（例：demo.md）即可。
 ## Known issues
 无法正确读取文件名含有空格的文件。
 ## Future plan
