@@ -4,12 +4,10 @@ import (
 	"fmt"
 	"os"
 	"path"
-	"runtime"
 	"strings"
 )
 
 var mdname string
-var ostype = runtime.GOOS
 
 func main() {
 	fmt.Println("请将您需要转换为HTML的Markdown文件放在此目录下")
